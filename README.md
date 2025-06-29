@@ -20,5 +20,5 @@ Nesse método entendemos a importância de fazer um processo organizacional, que
 ### Big Numbers  
 ### Info Context  
 ## Para visualizar:  
-É só clicar em [Dashboard de Vendas do Xbox no Excel]([https://github.com/eusouabruna/Ferramenta-de-Investimentos-no-Excel/blob/main/Ferramenta%20de%20investimentos%20no%20excel.xlsx](https://github.com/eusouabruna/Dashboard_Vendas_Xbox_Excel/blob/main/Dashboard%20de%20Vendas%20do%20Xbox%20no%20Excel.xlsx)) 
+É só clicar em [Dashboard de Vendas do Xbox no Excel]((https://github.com/eusouabruna/Dashboard_Vendas_Xbox_Excel/blob/main/Dashboard%20de%20Vendas%20do%20Xbox%20no%20Excel.xlsx)) 
 para fazer o download, abrir o arquivo no seu computador e explorar as funcionalidades e padrões visuais utilizados.
